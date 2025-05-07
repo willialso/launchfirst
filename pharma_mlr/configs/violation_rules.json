@@ -1,0 +1,26 @@
+{
+  "fair_balance": {
+    "name": "Fair Balance",
+    "cfr": "21 CFR 201.57(c)(6)"
+  },
+  "risk_benefit_prominence": {
+    "name": "Risk–Benefit Prominence",
+    "cfr": "21 CFR 201.57(c)(6)"
+  },
+  "pi_cross_reference": {
+    "name": "Prescribing Information Cross‑Reference",
+    "cfr": "21 CFR 202.1(e)(1)"
+  },
+  "blurry_lines": {
+    "name": "Blurry Lines",
+    "cfr": "21 CFR 202.1(e)(4)"
+  },
+  "subjective_lexicon": {
+    "name": "Subjective Lexicon",
+    "cfr": "21 CFR 202.1(e)(3)"
+  },
+  "bad_ad_compliance": {
+    "name": "FDA Bad Ad Compliance",
+    "cfr": "21 CFR 202.1(e)(2)"
+  }
+}

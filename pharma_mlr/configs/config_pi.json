@@ -1,0 +1,30 @@
+{
+  "BOXED_WARNING": {
+    "patterns": ["BOXED WARNING", "WARNING:"],
+    "max_sentences": 2
+  },
+  "INDICATIONS_AND_USAGE": {
+    "patterns": ["INDICATIONS AND USAGE", "INDICATIONS", "USAGE"],
+    "max_sentences": 3
+  },
+  "DOSAGE_AND_ADMINISTRATION": {
+    "patterns": ["DOSAGE AND ADMINISTRATION", "DOSAGE", "ADMINISTRATION"],
+    "max_sentences": 2
+  },
+  "CONTRAINDICATIONS": {
+    "patterns": ["CONTRAINDICATIONS", "do not use", "hypersensitivity"],
+    "max_sentences": 2
+  },
+  "WARNINGS_AND_PRECAUTIONS": {
+    "patterns": ["WARNINGS AND PRECAUTIONS", "WARNING", "CAUTION"],
+    "max_sentences": 3
+  },
+  "ADVERSE REACTIONS": {
+    "patterns": ["ADVERSE REACTIONS", "SIDE EFFECTS", "adverse reactions"],
+    "max_sentences": 2
+  },
+  "CLINICAL STUDIES": {
+    "patterns": ["CLINICAL STUDIES", "TRIAL", "ENDPOINT", "EFFICACY", "STUDY"],
+    "max_sentences": 3
+  }
+}

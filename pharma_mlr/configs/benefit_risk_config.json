@@ -1,0 +1,12 @@
+{
+  "benefit": {
+    "keywords": ["proven", "improves", "effective", "benefit", "boosts", "enhances", "optimizes", "improvement", "efficacy"],
+    "min_similarity": 0.45
+  },
+  "risk": {
+    "keywords": ["side effect", "risk", "warning", "adverse", "harm", "danger", "complication", "negative", "issue"],
+    "min_similarity": 0.45
+  },
+  "min_diff_threshold": 0.05,
+  "models": ["allenai/scibert_scivocab_uncased", "roberta-base"]
+}

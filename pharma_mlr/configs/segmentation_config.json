@@ -1,0 +1,70 @@
+{
+  "PROMO_HEADLINE": {
+    "patterns": [
+      "^(ROMVIMZA|[A-Z]{4,})(\\s+.*)?",
+      ".*(Capsules|Tablet|Drug|Promo).*"
+    ],
+    "max_sentences": 1,
+    "prototype": "ROMVIMZA \u2013 the headline of the promo"
+  },
+  "EFFICACY_CLAIMS": {
+    "patterns": [
+      "(?i)efficacy",
+      "(?i)shrink",
+      "(?i)improve",
+      "(?i)reduce",
+      "(?i)response",
+      "(?i)tumor",
+      "(?i)benefit",
+      "(?i)clinical"
+    ],
+    "max_sentences": 2,
+    "prototype": "This drug is effective in treating the disease"
+  },
+  "IMPORTANT_SAFETY_INFORMATION": {
+    "patterns": [
+      "(?i)safety",
+      "(?i)warning",
+      "(?i)contraindicated",
+      "(?i)risk",
+      "(?i)side effect"
+    ],
+    "max_sentences": 2,
+    "prototype": "Important safety information about the drug"
+  },
+  "INSTRUCTIONS": {
+    "patterns": [
+      "(?i)take",
+      "(?i)dosing",
+      "(?i)administer",
+      "(?i)instructions",
+      "(?i)dosage",
+      "(?i)recommended"
+    ],
+    "max_sentences": 2,
+    "prototype": "Instructions on how to use the drug"
+  },
+  "INDICATIONS": {
+    "patterns": [
+      "(?i)treatment for",
+      "(?i)indicated for",
+      "(?i)used for",
+      "(?i)therapy for"
+    ],
+    "max_sentences": 1,
+    "prototype": "The drug is indicated for a specific condition"
+  },
+  "DATA": {
+    "patterns": [
+      "(?i)clinical study",
+      "N\\s*=\\s*\\d+",
+      "(?i)placebo",
+      "(?i)cases",
+      "(?i)percent",
+      "(?i)response rate",
+      "(?i)median"
+    ],
+    "max_sentences": 2,
+    "prototype": "Clinical study data with numbers and percentages"
+  }
+}

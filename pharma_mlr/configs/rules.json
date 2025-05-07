@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "regulation": "202.1(a-b)",
+      "title": "Accurate Ingredient and Name Info",
+      "description": "Ingredients must appear in correct order, with established names, and no confusion or fanciful naming.",
+      "key_term": "ingredient"
+    },
+    {
+      "regulation": "202.1(c-d)",
+      "title": "Combination and Dosage Info",
+      "description": "Must list all active ingredients, dosage forms, and strengths clearly.",
+      "key_term": "dosage, administer, indication"
+    },
+    {
+      "regulation": "202.1(e)(1-6)",
+      "title": "Balanced Presentation",
+      "description": "Ads must present a true statement of side effects, contraindications, and effectiveness without misleading or incomplete information.",
+      "key_term": "misleading, omission, omits, risk, balance, benefit, format, font, image"
+    },
+    {
+      "regulation": "202.1(e)(12-13)",
+      "title": "Side Effect References and Authority",
+      "description": "Each page must reference side effects, and disclaimers must not misrepresent authority or data as conclusive.",
+      "key_term": "side effects, adverse event, may cause"
+    }
+  ]
+}

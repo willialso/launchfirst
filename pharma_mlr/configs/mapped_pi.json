@@ -1,0 +1,49 @@
+{
+  "document_id": "UNKNOWN_DRUG_PI_upload_001",
+  "document_type": "PI_upload",
+  "drug_name": "UNKNOWN_DRUG",
+  "sections": [
+    {
+      "section_type": "BOXED WARNING",
+      "text": "Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.",
+      "data_source": "[PI] - Boxed Warning",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "INDICATIONS AND USAGE",
+      "text": "DORAL is indicated for the treatment of insomnia characterized by difficulty in falling asleep, frequent nocturnal awakenings, and/or early morning awakenings.",
+      "data_source": "[PI] - Indications And Usage",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "DOSAGE AND ADMINISTRATION",
+      "text": "2 2.1 Dosage Recommendations Use the lowest dose effective for the patient, as important adverse effects of DORAL are dose related.",
+      "data_source": "[PI] - Dosage And Administration",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "CONTRAINDICATIONS",
+      "text": "DORAL is contraindicated in patients with known hypersensitivity to quazepam or other benzodiazepines.",
+      "data_source": "[PI] - Contraindications",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "WARNINGS AND PRECAUTIONS",
+      "text": "5.1 Risks from Concomitant Use with Opioids Concomitant use of benzodiazepines, including DORAL, and opioids may result in profound sedation, respiratory depression, coma, and death.",
+      "data_source": "[PI] - Warnings And Precautions",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "ADVERSE REACTIONS",
+      "text": ", including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.",
+      "data_source": "[PI] - Adverse Reactions",
+      "data_completeness": "complete"
+    },
+    {
+      "section_type": "CLINICAL STUDIES",
+      "text": "of 5 nights duration in acute and chronic insomnia.",
+      "data_source": "[PI] - Clinical Studies",
+      "data_completeness": "complete"
+    }
+  ]
+}

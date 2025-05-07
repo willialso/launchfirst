@@ -1,0 +1,17 @@
+{
+  "use_pi": false,
+  "layers": [
+    "violation",
+    "risk_benefit",
+    "blurry_lines",
+    "subjective",
+    "fda"
+  ],
+  "models": {
+    "violation": "models/violation_classifier.pt",
+    "risk_benefit": "models/risk_model.pkl",
+    "blurry_lines": "models/blurry_model.pkl",
+    "subjective": "models/subjective_model.pkl",
+    "fda": "models/fda_compliance_model.pkl"
+  }
+}

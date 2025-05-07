@@ -1,0 +1,19 @@
+{
+  "blurry_lines": [
+    {
+      "type": "superiority_claim",
+      "description": "Claims asserting superiority without clear evidence.",
+      "keywords": ["superior", "best", "only"]
+    },
+    {
+      "type": "quality_of_life_claim",
+      "description": "Mentions of quality of life improvements.",
+      "keywords": ["improve, betters, increases"]
+    },
+    {
+      "type": "relative_prominence_change",
+      "description": "Requests to change the prominence of claims without fair balance.",
+      "keywords": ["benefit, small text, bottom of page, risk"]
+    }
+  ]
+}
